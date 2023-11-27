@@ -1,0 +1,10 @@
+C:\Users\rufel\RiderProjects\DIP2\DIP2\bin\Debug\DIP2.exe.config
+C:\Users\rufel\RiderProjects\DIP2\DIP2\bin\Debug\DIP2.exe
+C:\Users\rufel\RiderProjects\DIP2\DIP2\bin\Debug\DIP2.pdb
+C:\Users\rufel\RiderProjects\DIP2\DIP2\obj\Debug\DIP2.csproj.AssemblyReference.cache
+C:\Users\rufel\RiderProjects\DIP2\DIP2\obj\Debug\DIP2.Form1.resources
+C:\Users\rufel\RiderProjects\DIP2\DIP2\obj\Debug\DIP2.Properties.Resources.resources
+C:\Users\rufel\RiderProjects\DIP2\DIP2\obj\Debug\DIP2.csproj.GenerateResource.cache
+C:\Users\rufel\RiderProjects\DIP2\DIP2\obj\Debug\DIP2.csproj.CoreCompileInputs.cache
+C:\Users\rufel\RiderProjects\DIP2\DIP2\obj\Debug\DIP2.exe
+C:\Users\rufel\RiderProjects\DIP2\DIP2\obj\Debug\DIP2.pdb
